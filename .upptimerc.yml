@@ -5,6 +5,7 @@ repo: testupptime # The name of this repository
 sites:
   - name: Cocoon API v1
     url: https://api.cocoon-space.com/health
+    __dangerous__body_down_if_text_missing: '{"status":"ok"}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
