@@ -12,7 +12,6 @@ sites:
   - name: Cocoon API v2 - prod
     url: https://api-prod-v2.cocoon-space.com/health
     __dangerous__body_down_if_text_missing: '{"status":"ok"}'
-    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
