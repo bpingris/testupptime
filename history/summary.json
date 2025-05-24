@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "time": 216,
+    "timeDay": 220,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 218,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod-v2.cocoon-space.com.ico",
     "slug": "cocoon-api-v2-prod",
     "status": "down",
-    "uptime": "49.15%",
-    "uptimeDay": "49.15%",
-    "uptimeWeek": "49.15%",
-    "uptimeMonth": "49.15%",
-    "uptimeYear": "49.15%",
+    "uptime": "1.73%",
+    "uptimeDay": "1.73%",
+    "uptimeWeek": "1.73%",
+    "uptimeMonth": "1.73%",
+    "uptimeYear": "1.73%",
     "time": 234,
     "timeDay": 234,
     "timeWeek": 234,
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-05-23": 20
+      "2025-05-24": 121,
+      "2025-05-23": 966
     }
   }
 ]
